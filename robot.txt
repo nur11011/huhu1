@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:http://ftp.automato.farm/sitemap.xml
+Sitemap:http://ftp.ezi.am/sitemap.xml
